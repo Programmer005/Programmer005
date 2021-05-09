@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... My Discord bot and my website
 - 🌱 I’m currently learning ... React
 - 💬 Ask me about ... Web dev. HTML, CSS, JS
