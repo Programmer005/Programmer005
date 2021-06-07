@@ -5,4 +5,4 @@
 - 💬 Ask me about ... Web dev. HTML, CSS, JS
 - 📫 How to reach me: ... panchalp008@gmail.com
 - 😄 Pronouns: ... He/They
-- ⚡ Fun fact: ... I am 13
+-  LGBTQ+ 🏳‍🌈🌈
