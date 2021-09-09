@@ -1,7 +1,7 @@
 # Hi there 👋 It's Piyush!
 
 - ### 🔭 I’m currently working on ... open source projects 
-- ### 🌱 I’m currently learning ... NextJS
+- ### 🌱 I’m currently learning ... Tailwind
 - ### 💬 Ask me about ... Web dev. HTML, CSS, JS
 - ### 📫 How to reach me: ... panchalp008@gmail.com
 - ### I like wolves and dogs <img src= "https://orig08.deviantart.net/0740/f/2016/234/9/7/__dear_you___fursona_meme__wolf_dance__by_foxstory-daea1t9.png" height= "50" width= "50">
